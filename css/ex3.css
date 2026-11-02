@@ -4,7 +4,7 @@ body{
     padding: 0;
     margin: 0;
     font-size: 1.2rem;
-    color:rgba(87, 117, 144, 1);
+    color:#F2760C;
 
     font-family: "Roboto", sans-serif;
 }
@@ -88,12 +88,12 @@ nav a:hover{
 
 .hero h1{
     position: absolute;
-    top:20%;
-	left:50%;
+    top:45%;
+	left:18%;
 	transform: translate(-50%, -50%);
 
-    font-size: 150px;
-    color: rgba(87, 117, 144, 1);
+    font-size: 80px;
+    color:#F2760C;
 }
 
 /*marquee*/
